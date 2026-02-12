@@ -1,4 +1,5 @@
 {
+  "description": "Subscribes to realtime ticker events for all symbols (exchange stream or local feed) and emits each incoming tick.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Realtime Ticker Stream All Symbols",
-      "text": "Subjective datasource implementation for SubjectiveRealtimeTickerStreamAllSymbolsDataSource.",
+      "text": "Subscribes to realtime ticker events for all symbols (exchange stream or local feed) and emits each incoming tick.",
       "image": {
         "src": "/subjective_binance_realtime_ticker_stream_all_symbols_datasource/icon.svg",
         "alt": "Realtime Ticker Stream All Symbols icon"
